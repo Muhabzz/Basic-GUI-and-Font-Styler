@@ -6,7 +6,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.File;
 
-public class Assignment2 {
+public class Final_Code {
 
     int x=365;
     int y=60;
@@ -336,6 +336,6 @@ public class Assignment2 {
     }
 
     public static void main(String[] args) {
-        new Assignment2();
+        new Final_Code();
     }
 }
